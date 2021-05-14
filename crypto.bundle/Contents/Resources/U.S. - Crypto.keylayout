@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Crypto pirate keyboard layout.&#x000A;https://github.com/raisty/keyboard-us-crypto&#x000A;MIT License-->
-<!--Last edited by Ukelele version 343 on 2021-05-12 at 10:19 (CEST)-->
+<!--Last edited by Ukelele version 343 on 2021-05-14 at 16:24 (CEST)-->
 <keyboard group="126" id="-28648" name="U.S. - Crypto" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -432,7 +432,7 @@
             <key code="70" output="&#x001C;"/>
             <key code="71" output="&#x001B;"/>
             <key code="72" output="&#x001F;"/>
-            <key code="75" output="🚩"/>
+            <key code="75" output="⛓️"/>
             <key code="76" output="&#x0003;"/>
             <key code="77" output="&#x001E;"/>
             <key code="78" output="👎"/>
@@ -483,7 +483,7 @@
             <key code="0" output="₳"/>
             <key code="1" output="₪"/>
             <key code="2" output="Ð"/>
-            <key code="3" output="⨎"/>
+            <key code="3" output="₣"/>
             <key code="4" output="₴"/>
             <key code="5" output="ℂ"/>
             <key code="6" output="ω"/>
@@ -520,7 +520,7 @@
             <key code="37" output="₺ "/>
             <key code="38" output="™"/>
             <key code="39" output="’"/>
-            <key code="40" output="℠"/>
+            <key code="40" output="₥"/>
             <key code="41" output="”"/>
             <key code="42" output="⊻"/>
             <key code="43" output="≤"/>
@@ -592,7 +592,7 @@
             <key code="0" output="₳"/>
             <key code="1" output="₪"/>
             <key code="2" output="Ð"/>
-            <key code="3" output="⨎"/>
+            <key code="3" output="₣"/>
             <key code="4" output="₴"/>
             <key code="5" output="ℂ"/>
             <key code="6" output="ω"/>
@@ -629,7 +629,7 @@
             <key code="37" output="₺ "/>
             <key code="38" output="™"/>
             <key code="39" output="’"/>
-            <key code="40" output="℠"/>
+            <key code="40" output="₥"/>
             <key code="41" output="”"/>
             <key code="42" output="⊻"/>
             <key code="43" output="≤"/>
@@ -655,8 +655,8 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="🐻"/>
             <key code="81" output="🔥"/>
-            <key code="82" output="😂"/>
-            <key code="83" output="😄"/>
+            <key code="82" output="😋"/>
+            <key code="83" output="😂"/>
             <key code="84" output="😣"/>
             <key code="85" output="💚"/>
             <key code="86" output="🧐"/>
