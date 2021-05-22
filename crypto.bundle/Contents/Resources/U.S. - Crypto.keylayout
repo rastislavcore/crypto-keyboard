@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Crypto pirate keyboard layout.&#x000A;https://github.com/raisty/keyboard-us-crypto&#x000A;MIT License-->
-<!--Last edited by Ukelele version 343 on 2021-05-14 at 16:24 (CEST)-->
+<!--Last edited by Ukelele version 343 on 2021-05-23 at 00:38 (CEST)-->
 <keyboard group="126" id="-28648" name="U.S. - Crypto" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -698,82 +698,82 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="6">
-            <key code="0" output="℁"/>
-            <key code="1" output="₷"/>
-            <key code="2" output="₯"/>
-            <key code="3" output="₣"/>
-            <key code="4" output="₥"/>
-            <key code="5" output="₲"/>
-            <key code="6" output="Kč"/>
-            <key code="7" output="zł"/>
-            <key code="8" output="℅"/>
-            <key code="9" output="∛"/>
-            <key code="10" output="🏴‍☠️"/>
-            <key code="11" output="β"/>
-            <key code="12" output="➤"/>
-            <key code="13" output="₠"/>
-            <key code="14" output="Ǥ"/>
-            <key code="15" output="Ᵽ"/>
-            <key code="16" output="円"/>
-            <key code="17" output="₮"/>
-            <key code="18" output="‼"/>
-            <key code="19" output="⛓"/>
-            <key code="20" output="💱"/>
-            <key code="21" output="💰"/>
-            <key code="22" output="🚀"/>
-            <key code="23" output="🎢"/>
-            <key code="24" output="≶"/>
-            <key code="25" output="⸨"/>
-            <key code="26" output="🆔"/>
-            <key code="27" output="÷"/>
-            <key code="28" output="🎯"/>
-            <key code="29" output="⸩"/>
-            <key code="30" output="❯"/>
-            <key code="31" output="₭"/>
-            <key code="32" output="₸ "/>
-            <key code="33" output="❮"/>
-            <key code="34" output="₶"/>
-            <key code="35" output="₧"/>
+            <key code="0" output="a"/>
+            <key code="1" output="s"/>
+            <key code="2" output="d"/>
+            <key code="3" output="f"/>
+            <key code="4" output="h"/>
+            <key code="5" output="g"/>
+            <key code="6" output="z"/>
+            <key code="7" output="x"/>
+            <key code="8" output="c"/>
+            <key code="9" output="v"/>
+            <key code="10" output="§"/>
+            <key code="11" output="b"/>
+            <key code="12" output="q"/>
+            <key code="13" output="w"/>
+            <key code="14" output="e"/>
+            <key code="15" output="r"/>
+            <key code="16" output="y"/>
+            <key code="17" output="t"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="-"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output="]"/>
+            <key code="31" output="o"/>
+            <key code="32" output="u"/>
+            <key code="33" output="["/>
+            <key code="34" output="i"/>
+            <key code="35" output="p"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="ꞥ"/>
-            <key code="38" output="∆"/>
-            <key code="39" output="❝"/>
-            <key code="40" output="℗"/>
-            <key code="41" output="⦂"/>
-            <key code="42" output="¶"/>
-            <key code="43" output="«"/>
-            <key code="44" output="⁈"/>
-            <key code="45" output="❌"/>
-            <key code="46" output="✔️"/>
-            <key code="47" output="»"/>
+            <key code="37" output="l"/>
+            <key code="38" output="j"/>
+            <key code="39" output="&#x0027;"/>
+            <key code="40" output="k"/>
+            <key code="41" output=";"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" output="n"/>
+            <key code="46" output="m"/>
+            <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="🔗"/>
+            <key code="50" output="`"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
             <key code="65" output="."/>
             <key code="66" output="&#x001D;"/>
-            <key code="67" output="Ⅿ"/>
-            <key code="69" output="Ⅺ"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="Ⅼ"/>
+            <key code="71" output="&#x001B;"/>
             <key code="72" output="&#x001F;"/>
-            <key code="75" output="Ⅾ"/>
+            <key code="75" output="/"/>
             <key code="76" output="&#x0003;"/>
             <key code="77" output="&#x001E;"/>
-            <key code="78" output="Ⅻ"/>
-            <key code="81" output="Ⅽ"/>
-            <key code="82" output="Ⅹ"/>
-            <key code="83" output="Ⅰ"/>
-            <key code="84" output="Ⅱ"/>
-            <key code="85" output="Ⅲ"/>
-            <key code="86" output="Ⅳ"/>
-            <key code="87" output="Ⅴ"/>
-            <key code="88" output="Ⅵ"/>
-            <key code="89" output="Ⅶ"/>
-            <key code="91" output="Ⅷ"/>
-            <key code="92" output="Ⅸ"/>
+            <key code="78" output="-"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
