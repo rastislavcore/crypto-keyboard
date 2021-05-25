@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Crypto pirate keyboard layout.&#x000A;https://github.com/raisty/keyboard-us-crypto&#x000A;MIT License-->
-<!--Last edited by Ukelele version 343 on 2021-05-23 at 00:38 (CEST)-->
+<!--Last edited by Ukelele version 343 on 2021-05-25 at 18:23 (CEST)-->
 <keyboard group="126" id="-28648" name="U.S. - Crypto" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -376,7 +376,7 @@
             <key code="2" output="∂"/>
             <key code="3" output="ƒ"/>
             <key code="4" output="ⓜ"/>
-            <key code="5" output="Ͼ"/>
+            <key code="5" output="Ƈ"/>
             <key code="6" output="∫"/>
             <key code="7" output="×"/>
             <key code="8" output="₡"/>
@@ -385,8 +385,8 @@
             <key code="11" output="₿"/>
             <key code="12" output="₢"/>
             <key code="13" output="₩"/>
-            <key code="14" output="Ξ"/>
-            <key code="15" output="€"/>
+            <key code="14" output="€"/>
+            <key code="15" output="Ξ"/>
             <key code="16" output="¥"/>
             <key code="17" output="₤"/>
             <key code="18" output="❗"/>
