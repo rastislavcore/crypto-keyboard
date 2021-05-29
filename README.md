@@ -1,4 +1,4 @@
-# US Crypto ⌑ keyboard for Mac
+# US Crypto keyboard for Mac
 
 ### Installation
 
