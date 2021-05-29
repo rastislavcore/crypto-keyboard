@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>crypto</string>
 	<key>CFBundleVersion</key>
-	<string>1.01</string>
+	<string>1.10</string>
 	<key>KLInfo_U.S. - Crypto</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
