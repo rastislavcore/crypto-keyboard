@@ -45,7 +45,7 @@ Feel free to [fork](https://github.com/raisty/keyboard-us-crypto/fork) the repos
 
 ## License
 
-[MIT](LICENSE)
+[CORE](LICENSE)
 
 ## Support
 
