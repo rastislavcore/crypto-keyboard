@@ -7,15 +7,24 @@
 	<key>CFBundleName</key>
 	<string>crypto</string>
 	<key>CFBundleVersion</key>
-	<string>1.10</string>
-	<key>KLInfo_U.S. - Crypto</key>
+	<string>1.11</string>
+	<key>KLInfo_U.S. – Crypto</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument.u.s.-crypto</string>
+		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument.u.s.–crypto</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string>en-AA</string>
+	</dict>
+	<key>UkeleleInfo_U.S. – Crypto</key>
+	<dict>
+		<key>Font</key>
+		<string>Machine-Regular</string>
+		<key>FontSize</key>
+		<real>18</real>
 	</dict>
 </dict>
 </plist>

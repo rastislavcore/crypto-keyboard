@@ -1,17 +1,52 @@
-# US Crypto keyboard for Mac
+# US Crypto Keyboard for Mac
 
-### Installation
+A customized US keyboard layout with cryptocurrency and financial symbols.
+
+## Installation
+
+### Using DMG (Recommended)
+
+Download and mount the latest `.dmg` file from the [releases page](https://github.com/rastislavcore/crypto-keyboard/releases). Double-click the installer package to install.
+
+### Manual Installation
+
+Choose one of the following methods:
+
+**Per User Installation:**
 
 ```sh
-git clone https://github.com/raisty/keyboard-us-crypto.git
-cd keyboard-us-crypto/
-sudo cp crypto.bundle /Library/Keyboard\ Layouts/
-cd .. && rm -rf keyboard-us-crypto/
+git clone https://github.com/rastislavcore/crypto-keyboard.git
+cd crypto-keyboard/
+cp crypto.bundle ~/Library/Keyboard\ Layouts/
+cd .. && rm -rf crypto-keyboard/
 ```
+
+**System-wide Installation:**
+
+```sh
+git clone https://github.com/rastislavcore/crypto-keyboard.git
+cd crypto-keyboard/
+sudo cp crypto.bundle /Library/Keyboard\ Layouts/
+cd .. && rm -rf crypto-keyboard/
+```
+
+After installation, enable the keyboard layout in System Settings > Keyboard > Input Sources > + > Others > Crypto Keyboard.
+
+### Special Characters
+
+This keyboard includes special glyphs in the Private Use Area (PUA):
+
+- Shift + Option + 1: Open-Source logo (uniE0A9)
+- Shift + Option + 2: Digital Euro (uniE926)
+- Shift + Option + 3: Digital Franc (uniEAFA)
+- Shift + Option + 4: Digital Dollar (uniE227)
+- Shift + Option + B: Satoshi Symbol (uniF1B6)
+
+These glyphs require the [Machine font](https://github.com/rastislavcore/machine) to display properly.
 
 ### Modifications
 
-Feel free to [fork](https://github.com/raisty/keyboard-us-crypto/fork) the repository and modify the keyboard layout with [Ukulele](https://software.sil.org/ukelele) software.
+Feel free to [fork](https://github.com/rastislavcore/crypto-keyboard/fork) the repository and modify the keyboard layout with [Ukulele](https://software.sil.org/ukelele) software.
 
 ### Layout
 
@@ -43,6 +78,6 @@ Feel free to [fork](https://github.com/raisty/keyboard-us-crypto/fork) the repos
 
 ![Control](images/state-control.png?raw=true "Control")
 
-## License
+### License
 
-[CORE](LICENSE)
+This keyboard layout is licensed under the [CORE](LICENSE) License.
