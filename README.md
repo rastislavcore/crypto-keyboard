@@ -34,6 +34,8 @@ After installation, enable the keyboard layout in System Settings > Keyboard > I
 
 ### Special Characters
 
+#### PUA Glyphs
+
 This keyboard includes special glyphs in the Private Use Area (PUA):
 
 - Shift + Option + 1: Open-Source logo (uniE0A9)
@@ -43,6 +45,25 @@ This keyboard includes special glyphs in the Private Use Area (PUA):
 - Shift + Option + B: Satoshi Symbol (uniF1B6)
 
 These glyphs require the [Machine font](https://github.com/rastislavcore/machine) to display properly.
+
+Please note that PUA glyphs are not standardized across fonts. To use these glyphs with other fonts, you'll need to either:
+
+- Request font creators to add these specific glyphs to their fonts
+- Modify the fonts yourself to include these glyphs at the specified Unicode points
+
+#### Dead Key Combinations
+
+The § key serves as a dead key, allowing you to create various mathematical and special symbols. Press § first, followed by the second key:
+
+| Combination | Symbol | Description |
+|------------|---------|-------------|
+| § + . | ∵ | Because |
+| § + , | ∴ | Therefore |
+| § + = | ≡ | Identical to |
+| § + - | ÷ | Division |
+| § + 8 | ∞ | Infinity |
+| § + / | ÷ | Division sign |
+| § + ? | ¿ | Spanish Question Mark |
 
 ### Modifications
 
