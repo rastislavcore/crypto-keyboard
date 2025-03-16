@@ -14,23 +14,23 @@ Choose one of the following methods:
 
 **Per User Installation:**
 
-```sh
-git clone https://github.com/rastislavcore/crypto-keyboard.git
-cd crypto-keyboard/
-cp crypto.bundle ~/Library/Keyboard\ Layouts/
-cd .. && rm -rf crypto-keyboard/
-```
+1. Copy the `crypto.bundle` file to the `~/Library/Keyboard\ Layouts/` directory.
+
+   ```sh
+   cp crypto.bundle ~/Library/Keyboard\ Layouts/
+   ```
+
+2. Set the keyboard layout in System Settings > Keyboard > Input Sources > + > Others > Crypto Keyboard.
 
 **System-wide Installation:**
 
-```sh
-git clone https://github.com/rastislavcore/crypto-keyboard.git
-cd crypto-keyboard/
-sudo cp crypto.bundle /Library/Keyboard\ Layouts/
-cd .. && rm -rf crypto-keyboard/
-```
+1. Copy the `crypto.bundle` file to the `/Library/Keyboard\ Layouts/` directory.
 
-After installation, enable the keyboard layout in System Settings > Keyboard > Input Sources > + > Others > Crypto Keyboard.
+   ```sh
+   sudo cp crypto.bundle /Library/Keyboard\ Layouts/
+   ```
+
+2. Set the keyboard layout in System Settings > Keyboard > Input Sources > + > Others > Crypto Keyboard.
 
 ### Special Characters
 
@@ -44,7 +44,7 @@ This keyboard includes special glyphs in the Private Use Area (PUA):
 - Shift + Option + 4: Digital Dollar (uniE227)
 - Shift + Option + B: Satoshi Symbol (uniF1B6)
 
-These glyphs require the [Machine font](https://github.com/rastislavcore/machine) to display properly.
+These glyphs require the [Zephirum font](https://github.com/rastislavcore/zephirum) to display properly.
 
 Please note that PUA glyphs are not standardized across fonts. To use these glyphs with other fonts, you'll need to either:
 
