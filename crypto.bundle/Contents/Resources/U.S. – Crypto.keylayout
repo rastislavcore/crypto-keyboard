@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Crypto Keyboard for the US Layout&#x000A;&#x000A;Repository URL: https://github.com/rastislavcore/crypto-keyboard&#x000A;&#x000A;The keyboard layout is licensed under the CORE License.&#x000A;&#x000A;We use certain glyphs in the Private Use Area (PUA):&#x000A;&#x000A;Shift + Opt + 1: Open-Source logo (uniE0A9)&#x000A;Shift + Opt + 2: Digital Euro (uniE926)&#x000A;Shift + Opt + 3: Digital Franc (uniEAFA)&#x000A;Shift + Opt + 4: Digital Dollar (uniE227)&#x000A;Shift + Opt + B: Satoshi Symbol (uniF1B6)&#x000A;&#x000A;These glyphs are available in the following font:&#x000A;https://github.com/rastislavcore/machine&#x000A;&#x000A;The § key serves as a dead key, allowing you to create various symbols:&#x000A;&#x000A;§ + .&#x0009;&#x0009;∵&#x0009;(Because)&#x000A;§ + ,&#x0009;&#x0009;∴&#x0009;(Therefore)&#x000A;§ + =&#x0009;&#x0009;≡&#x0009;(Identical to)&#x000A;§ + -&#x0009;&#x0009;÷&#x0009;(Division)&#x000A;§ + 8&#x0009;&#x0009;∞&#x0009;(Infinity)&#x000A;§ + /&#x0009;&#x0009;÷&#x0009;(Division sign)&#x000A;§ + ?&#x0009;&#x0009;¿&#x0009;(Spanish Question Mark)-->
-<!--Last edited by Ukelele version 415 on 2025-03-04 at 21:25 (CET)-->
+<!--Last edited by Ukelele version 442 on 2025-07-06 at 22:12 (CEST)-->
 <!---->
 <!--Crypto Keyboard for the US Layout&#x000A;&#x000A;Repository URL: https://github.com/rastislavcore/crypto-keyboard&#x000A;&#x000A;The keyboard layout is licensed under the CORE License.-->
 <!---->
@@ -381,7 +381,7 @@
             <key code="4" output="®"/>
             <key code="5" output="©"/>
             <key code="6" output="∫"/>
-            <key code="7" output="×"/>
+            <key code="7" output="𐆖"/>
             <key code="8" output="₡"/>
             <key code="9" output="√"/>
             <key code="10" output="№"/>
@@ -418,7 +418,7 @@
             <key code="41" output="“"/>
             <key code="42" output="¦"/>
             <key code="43" output="•"/>
-            <key code="44" output="‽"/>
+            <key code="44" output="¿"/>
             <key code="45" output="␕"/>
             <key code="46" output="µ"/>
             <key code="47" output="…"/>
@@ -490,7 +490,7 @@
             <key code="4" output="₴"/>
             <key code="5" output="₫"/>
             <key code="6" output="Ω"/>
-            <key code="7" output="÷"/>
+            <key code="7" output="×"/>
             <key code="8" output="Ƈ"/>
             <key code="9" output="◊"/>
             <key code="10" output="⎈"/>
@@ -527,7 +527,7 @@
             <key code="41" output="”"/>
             <key code="42" output="⊻"/>
             <key code="43" output="≤"/>
-            <key code="44" output="¿"/>
+            <key code="44" output="÷"/>
             <key code="45" output="₦"/>
             <key code="46" output="₥"/>
             <key code="47" output="≥"/>
@@ -599,7 +599,7 @@
             <key code="4" output="₴"/>
             <key code="5" output="₫"/>
             <key code="6" output="Ω"/>
-            <key code="7" output="÷"/>
+            <key code="7" output="×"/>
             <key code="8" output="Ƈ"/>
             <key code="9" output="◊"/>
             <key code="10" output="⎈"/>
@@ -636,7 +636,7 @@
             <key code="41" output="”"/>
             <key code="42" output="⊻"/>
             <key code="43" output="≤"/>
-            <key code="44" output="¿"/>
+            <key code="44" output="÷"/>
             <key code="45" output="₦"/>
             <key code="46" output="₥"/>
             <key code="47" output="≥"/>
